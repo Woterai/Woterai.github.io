@@ -1,6 +1,12 @@
 {
   "schemaVersion": 1,
   "project": "爬取爱奇艺电影数据并分析",
-  "updatedAt": "",
-  "checked": {}
+  "updatedAt": "2026-11-24T08:17:27.287Z",
+  "checked": {
+    "0-0": true,
+    "0-1": true,
+    "0-2": true,
+    "0-3": true,
+    "0-4": true
+  }
 }
